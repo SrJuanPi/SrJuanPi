@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Juan Linares</h1>
 <h3 align="center">Programador independiente de python en desarrollo</h3>
 
-- 🔭 Estoy trabajando en: **Una librería personal**
-
 - 🌱 Actualmente aprendo: **Python**
 
 - 👨‍💻 Todos mis proyectos disponibles en: [https://github.com/srjuanpi](https://github.com/srjuanpi)
